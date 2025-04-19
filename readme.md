@@ -46,7 +46,7 @@ The Weather Forecast Application provides real-time weather information with a u
 ### 1. First Page
 This is the first page of the Weather App:
 
-![First Page](screenshot/first page.png)
+![First Page](screenshot/first.png)
 
 ### 2. Search City and Weather Data
 This is how the app looks when you search for a city:
