@@ -16,7 +16,7 @@ The Weather Forecast Application provides real-time weather information with a u
 1. **Frontend**:
    - HTML
    - Tailwind CSS
-   - Vanilla JavaScript
+   - JavaScript
 
 2. **API**:
    - [OpenWeatherMap API](https://openweathermap.org/api)
@@ -119,7 +119,6 @@ weather-forecast-app/
 
 ## Future Enhancements
 
-- Add a toggle to switch between Celsius and Fahrenheit.
 - Use `localStorage` instead of `sessionStorage` for persistent city history.
 - Add animations for better user experience.
 - Improve error handling for API rate limits and network issues.
